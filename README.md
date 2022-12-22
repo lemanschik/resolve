@@ -1,2 +1,2 @@
 # resolve
-Resolves imports handel's node quirks. 
+Resolves imports bypasses or  handel's  nodejs and package.json quirks. 
